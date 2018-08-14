@@ -12,6 +12,6 @@ public class App
         System.out.println( "Welcome to Git World!" );
         System.out.println( "Changes done is branch1" );
         System.out.println( "Changes done for jenkin test1" );
-        System.out.println( "Changes done for jenkin test2" );
+      
     }
 }
