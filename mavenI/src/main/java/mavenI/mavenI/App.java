@@ -13,7 +13,7 @@ public class App
         System.out.println( "Changes done is branch1" );
         System.out.println( "Changes done for github public repo." );
         System.out.println( "Change 2 done for github public repo." );
-        System.out.println( "Change 12 done  to test success maven" );
+        System.out.println( "Change 13 done  to test success maven" );
       
     }
 }
